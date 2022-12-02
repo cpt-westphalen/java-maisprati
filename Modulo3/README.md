@@ -4,7 +4,7 @@ Usar classe abstrata e método abstrato.
 
 ### Funcionarios
 
-Apresenta o método abstrato para calcular o valor total a pagar ao funcionário e prevê propriedades e faz Override do método toString para os funcionários.
+Apresenta o método abstrato verValorTotal(), prevê propriedades e faz Override do método toString.
 
 - Cada subclasse tem um valor próprio de bonus que é usado para o cálculo final.
 - O override do toString permite um loop bem clean no método "main" de App.
